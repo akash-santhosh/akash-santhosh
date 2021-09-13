@@ -8,6 +8,5 @@
 - 🤔 I’m looking for help with anything
 - 💬 Ask me about anything
 - 📫 How to reach me: [AKS.ONE](https://aks.one)
-
-
-[![Akash's github stats](https://github-readme-stats.vercel.app/api?username=akash-santhosh)]
+- 
+- (https://github-readme-stats.vercel.app/api?username=akash-santhosh)
