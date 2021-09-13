@@ -8,4 +8,8 @@
 - 🤔 I’m looking for help with anything
 - 💬 Ask me about anything
 - 📫 How to reach me: [AKS.ONE](https://aks.one)
-- ![](https://raw.githubusercontent.com/akash-santhosh/github-stats-transparent/output/generated/overview.svg)
+
+## :octocat: Github Stats
+
+![](https://raw.githubusercontent.com/akash-santhosh/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/akash-santhosh/github-stats-transparent/output/generated/languages.svg)
