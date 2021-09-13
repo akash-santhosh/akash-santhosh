@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate on anything
 - 🤔 I’m looking for help with anything
-- 💬 Ask me about anything
+- 💬 Ask me about something
 - 📫 How to reach me: [AKS.ONE](https://aks.one)
 
 ## :octocat: Github Stats
