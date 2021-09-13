@@ -1,4 +1,4 @@
-![Akash](https://aks.one/ezgif.gif)
+![Akash](https://aks.one/akash-santhosh.gif)
 # Too Lazy to work on a README File...
 
 ### Hi there 👋
