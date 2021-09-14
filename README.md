@@ -5,4 +5,4 @@
 ![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=_akashsanthosh)
 ![Akash's github activity graph](https://activity-graph.herokuapp.com/graph?username=akash-santhosh&bg_color=000000&color=718191&line=e9e9ea&point=e9e9ea&area=true&hide_border=true)
 
-<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> ## reach me on [aks.one](https://aks.one)
+## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> reach me on [aks.one](https://aks.one)
