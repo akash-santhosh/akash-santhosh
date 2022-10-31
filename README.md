@@ -1,7 +1,7 @@
 ![Akash](https://aks.one/akash-santhosh.gif)
 ## :octocat: Github Stats
-![](https://raw.githubusercontent.com/akash-santhosh/github-stats/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/akash-santhosh/github-stats/output/generated/languages.svg)
+![](https://raw.githubusercontent.com/akash-santhosh/github-stats/generated/overview.svg)
+![](https://raw.githubusercontent.com/akash-santhosh/github-stats/generated/languages.svg)
 ## 🎧 What's Happening
 ![On Discord](https://discord-readme-badge.vercel.app/api?id=336519317518811137)
 ![On Spotify](https://spotifyme.vercel.app/api/spotify)
