@@ -4,7 +4,7 @@
 ![](https://raw.githubusercontent.com/akash-santhosh/github-stats/output/generated/languages.svg)
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+  <img src="https://profile-counter.glitch.me/akash-santhosh/count.svg" />
 </p>
 
 ## 🎧 What's Happening
