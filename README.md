@@ -18,7 +18,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=akash-santhosh&theme=darcula&hide_border=true&background=00000000)
 ![](https://github-readme-stats.vercel.app/api?username=akash-santhosh&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000)  
 </details>
-## 😂 Jokes for you
+## :joy: Jokes for you
 <p align="center">   
 <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=black" alt="Jokes Card" />
 </p>
