@@ -6,6 +6,7 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
 </p>
+
 ## 🎧 What's Happening
 ![On Discord](https://discord-readme-badge.vercel.app/api?id=336519317518811137)
 ![On Spotify](https://spotifyme.vercel.app/api/spotify)
