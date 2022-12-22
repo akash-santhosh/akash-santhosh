@@ -19,6 +19,4 @@
 
 </details>
 
-<p align="center">
-![Jokes Card](https://readme-jokes.vercel.app/api)
-</p>
+![](https://readme-jokes.vercel.app/api)
