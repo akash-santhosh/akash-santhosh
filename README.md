@@ -3,7 +3,7 @@
 ![On Discord](https://discord-readme-badge.vercel.app/api?id=336519317518811137)
 ![On Spotify](https://spotifyme.vercel.app/api/spotify)
 <details>
-<summary>My GitHub Stats</summary>
+<summary>CLick here for my GitHub stats</summary>
 
   ## :octocat: Github Stats
   
