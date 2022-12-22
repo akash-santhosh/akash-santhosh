@@ -18,5 +18,6 @@
 # <img src="https://aks.one/Hi.gif" width="40px" /> reach me on [aks.one](https://aks.one)
 
 </details>
-
-![](https://readme-jokes.vercel.app/api)
+<p align="center"> 
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+</p>
