@@ -5,7 +5,7 @@
 <details>
 <summary>CLick here for my GitHub stats</summary>
 
-  ## :octocat: Github Stats
+## :octocat: Github Stats
   
 ![](https://raw.githubusercontent.com/akash-santhosh/github-stats/output/generated/overview.svg)
 ![](https://raw.githubusercontent.com/akash-santhosh/github-stats/output/generated/languages.svg)
@@ -20,4 +20,5 @@
 <p align="center"> 
 <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=black" alt="Jokes Card" />
 </p>
+
 # <img src="https://aks.one/Hi.gif" width="40px" /> reach me on [aks.one](https://aks.one)
