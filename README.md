@@ -19,5 +19,5 @@
 
 </details>
 <p align="center"> 
-<img src="https://readme-jokes.vercel.app/api?hideBorder&theme=black&qColor=%ffff&aColor=%ffff" alt="Jokes Card" />
+<img src="https://readme-jokes.vercel.app/api?hideBorder&theme=black&qColor=%11111111&aColor=%11111111" alt="Jokes Card" />
 </p>
