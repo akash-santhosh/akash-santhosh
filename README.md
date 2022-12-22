@@ -16,7 +16,9 @@
   
 ![Akash's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=akash-santhosh&bg_color=000000&color=718191&line=e9e9ea&point=e9e9ea&area=true&hide_border=true)
 <p align="center"> <img src=https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akash-santhosh&theme=github_dark /></p>
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=akash-santhosh&theme=github_dark)
+  
+<p align="center"> <img src=https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=akash-santhosh&theme=github_dark /></p>
+  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=akash-santhosh&theme=darcula&hide_border=true&background=00000000)
 ![](https://github-readme-stats.vercel.app/api?username=akash-santhosh&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000)  
 </details>
