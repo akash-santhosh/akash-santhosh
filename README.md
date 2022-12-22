@@ -4,7 +4,9 @@
 ![On Spotify](https://spotifyme.vercel.app/api/spotify)
 <details>
 <summary>My GitHub Stats</summary>
-## :octocat: Github Stats
+
+  ## :octocat: Github Stats
+  
 ![](https://raw.githubusercontent.com/akash-santhosh/github-stats/output/generated/overview.svg)
 ![](https://raw.githubusercontent.com/akash-santhosh/github-stats/output/generated/languages.svg)
 <p align="center"> 
