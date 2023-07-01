@@ -14,7 +14,6 @@
   <img src="https://profile-counter.glitch.me/akash-santhosh/count.svg" />
 </p>
   
-![Akash's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=akash-santhosh&bg_color=000000&color=718191&line=e9e9ea&point=e9e9ea&area=true&hide_border=true)
 <p align="center"> <img src=https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akash-santhosh&theme=github_dark /></p>
   
 <p align="center"> <img src=https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=akash-santhosh&theme=github_dark /></p>
