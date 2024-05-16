@@ -1,6 +1,5 @@
 ![Akash](https://aks.one/akash-santhosh.gif)
 ## 🎧 What's Happening
-![On Discord](https://discord-readme-badge.vercel.app/api?id=336519317518811137)
 ![On Spotify](https://spotifyme.vercel.app/api/spotify)
 <details>
 <summary>Click here for my GitHub stats</summary>
