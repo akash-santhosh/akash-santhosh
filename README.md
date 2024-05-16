@@ -1,6 +1,6 @@
 ![Akash](https://aks.one/akash-santhosh.gif)
 ## 🎧 What's Happening
-  [On Spotify](https://spotifyme.vercel.app/api/spotify)
+  ![On Spotify](https://spotifyme.vercel.app/api/spotify)
 <details>
 <summary>Click here for my GitHub stats</summary>
 
